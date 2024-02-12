@@ -1,0 +1,45 @@
+body{
+    color: white;
+    background-color: black;
+}
+
+.heading{
+    color: red;
+}
+
+.btn-outline-primary:hover{
+    background-color: red;
+}
+
+.listgroup{
+    font-size: 1.5rem;
+}
+
+.list-group-item{
+    margin: 5px;
+    border: 1px solid red;
+    border-radius: 2px;
+}
+
+#itemList { 
+    font-size: 1.5rem;
+    color: black;
+    font-weight: 500;
+}
+
+.red{
+    color: lightcoral;
+}
+.green{
+    color: lightgreen;
+}
+.blue{
+    color: lightblue;
+}
+
+.show { 
+    display: block;
+}
+.hide { 
+    display: none;
+}
